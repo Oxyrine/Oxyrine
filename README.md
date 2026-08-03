@@ -1,27 +1,133 @@
-# 💫 About Me:
-Hi, I’m Aakash! I’m a curious learner who loves breaking complex problems into simple, logical steps. I’m currently working on improving my skills in Python and web development while looking to contribute in open source, focusing on writing clean, efficient code and understanding what each line of code does.<br><br>I’m currently learning data structures and algorithms, cloud computing and database management, while also exploring how to make websites.<br><br>I’m looking to collaborate with other learners and developers who enjoy discussing coding logic or working on small creative tech projects together.<br><br>I’d love some guidance or mentorship in Python, C, Java or other programming langauges  and real-world project building, since I’m aiming to work in big companies.<br><br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Hi%20There!%20I'm%20Aakash%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=CS%20Student%20%7C%20DSA%20Enthusiast%20%7C%20Building%20Real%20Things&descAlignY=58&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aakash-a-cse/) 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2A97F5&center=true&vCenter=true&width=600&lines=Breaking+complex+problems+into+simple+steps;Deep+in+DSA+%2B+Java+right+now;Building+real%2C+deployable+projects;Open+to+collab+%26+open+source+%F0%9F%92%A1" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Oxyrine&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Oxyrine&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oxyrine&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Oxyrine&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🧑‍💻 About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Oxyrine&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🔭 CS undergrad focused on **DSA, clean code, and real-world project building**
+- 🌱 Currently sharpening **Python, Java, and web development**
+- ☁️ Exploring **cloud computing & database management**
+- 🤝 Looking to collaborate on **open source** and small creative tech projects
+- 🎯 Long-term goal: become **industry-ready** and build toward a career at a top tech company
+- ⚡ I'd rather understand *why* a line of code works than just copy-paste it
+
+<details>
+<summary>🏆 A few things I'm proud of (click to expand)</summary>
+<br>
+
+| Achievement | Details |
+|---|---|
+| 🥇 **1st Place** — MIND SPARK Innovation Challenge | Built **Krypts**, a plug-and-play DRM system |
+| 🥈 **2nd Place** — Technical Interview Challenge | Placed among 128 participants across multiple interview rounds |
+| 🚀 **Hackathon Build** — PecHacks | Built **Aegis Shield** with team Athena |
+
+</details>
+
+<br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Oxyrine&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔐 Krypts**
+Plug-and-play DRM system for indie creators & startups. OS-level screenshot blocking via Electron, FastAPI backend, deployed on Railway/Vercel.
+🥇 *1st place, MIND SPARK Innovation Challenge*
+
+</td>
+<td width="50%" valign="top">
+
+**🛡️ Aegis Shield**
+Elder-fraud prevention system that detects behavioral patterns preceding digital-arrest scams. Weighted risk-scoring engine with SMS + guardian voice alerts via Twilio & ElevenLabs.
+🚀 *Built at PecHacks*
+
+</td>
+</tr>
+</table>
+
+<sub>💡 Add repo links here once they're public — happy to turn these into linked project cards too.</sub>
+
+<br>
+
+---
+
+### 💻 Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Web**
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Currently Learning**
+
+![DSA](https://img.shields.io/badge/DSA-000000?style=for-the-badge)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+<br>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Oxyrine&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxyrine&layout=compact&theme=radical"/>
+</div>
+
+<div align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=Oxyrine&theme=radical&hide_border=false"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Oxyrine&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+</div>
+
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=Oxyrine&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</div>
+
+<br>
+
+---
+
+### 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-wwwa-cse/)
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<div align="center">
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=Oxyrine&icon=0&color=0)
+
+</div>
+
+<sub align="center">Proudly crafted with 💙 · powered by <a href="https://gprm.itsvg.in">GPRM</a></sub>
