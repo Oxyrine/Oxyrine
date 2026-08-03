@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=700&color=FFD700&center=true&vCenter=true&width=650&height=50&lines=B.E.+CSE+Student+%40+SRM+IST;DSA+%26+Competitive+Programming;Full-Stack+Web+Developer;Aspiring+Backend+Engineer" alt="Titles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=700&color=FFD700&center=true&vCenter=true&width=650&height=50&lines=Computer+Science+Student;DSA+%26+Competitive+Programming;Full-Stack+Web+Developer;Aspiring+Backend+Engineer" alt="Titles" />
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ I'm looking to collaborate with other learners and developers who enjoy discussi
 | Competition | Project | Result |
 |:-----------:|:--------|:------:|
 | **MindSpark'26** | Krypts — DRM system for creators | 🥇 1st Place |
-| **CodeClash** | Competitive Coding-Interview Contest | 🥈 2nd Place|
+| **CodeClash** | Competitive Coding-Interview Contest | 🥈 2nd Place |
 
 </div>
 
@@ -154,10 +154,10 @@ An **interactive cyber-awareness and threat-defense platform** that trains users
   <a href="https://linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-1D4E89?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=1D4E89" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:aakasharyan2007@gmail.com">
     <img src="https://img.shields.io/badge/Email-1D4E89?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=1D4E89" alt="Email" />
   </a>
-  <a href="https://leetcode.com/YOUR-LEETCODE">
+  <a href="https://leetcode.com/u/CrazyChar">
     <img src="https://img.shields.io/badge/LeetCode-1D4E89?style=for-the-badge&logo=leetcode&logoColor=FFD700&labelColor=1D4E89" alt="LeetCode" />
   </a>
   <a href="https://github.com/Oxyrine">
