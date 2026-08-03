@@ -119,7 +119,10 @@ Elder-fraud prevention system that detects behavioral patterns preceding digital
 <br>
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+> *"If Microsoft ever does applications for Linux, it means I've won."*
+> — Linus Torvalds
+
 </div>
 
 <div align="center">
