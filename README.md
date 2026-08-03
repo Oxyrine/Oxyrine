@@ -29,7 +29,7 @@
 
 <h2 align="center">📜 About Me</h2>
 
-I'm a first-year **Computer Science and Engineering** student who enjoys breaking complex problems down into simple, logical steps. I'm currently sharpening my skills in **Python** and **web development**, with the goal of contributing meaningfully to open-source projects — writing code that's clean, efficient, and easy to reason about.
+I'm a second-year **Computer Science and Engineering** student who enjoys breaking complex problems down into simple, logical steps. I'm currently sharpening my skills in **Python** and **web development**, with the goal of contributing meaningfully to open-source projects — writing code that's clean, efficient, and easy to reason about.
 
 Right now, I'm actively learning:
 
@@ -47,7 +47,7 @@ I'm looking to collaborate with other learners and developers who enjoy discussi
 | Competition | Project | Result |
 |:-----------:|:--------|:------:|
 | **MindSpark'26** | Krypts — DRM system for creators | 🥇 1st Place |
-| **CodeClash** | *(details to be added)* | — |
+| **CodeClash** | Competitive Coding-Interview Contest | 🥈 2nd Place|
 
 </div>
 
