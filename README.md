@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Hi%20There!%20I'm%20Aakash%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:24243e,100:8b5e34&height=200&section=header&text=Hi%20There!%20I'm%20Aakash%20%E2%9A%94%EF%B8%8F&fontSize=40&fontColor=D4AF37&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2A97F5&center=true&vCenter=true&width=600&lines=Breaking+complex+problems+into+simple+steps;Deep+in+DSA+%2B+Java+right+now;Building+real%2C+deployable+projects;Open+to+collab+%26+open+source+%F0%9F%92%A1" alt="Typing SVG" />
+*Building with Odysseus's patience, shipping with Achilles's edge.*
+
+<img src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=20&pause=1800&color=D4AF37&center=true&vCenter=true&width=650&lines=Breaking+complex+problems+into+simple+steps;Deep+in+DSA+%2B+Java+right+now;Building+real%2C+deployable+projects;Open+to+collab+%26+open+source" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-### 🧑‍💻 About Me
+---
+
+### 🏛️ About Me
 
 - 🔭 CS undergrad focused on **DSA, clean code, and real-world project building**
 - 🌱 Currently sharpening **Python, Java, and web development**
@@ -18,7 +22,7 @@
 - ⚡ I'd rather understand *why* a line of code works than just copy-paste it
 
 <details>
-<summary>🏆 A few things I'm proud of (click to expand)</summary>
+<summary>🏆 Achievements (click to expand)</summary>
 <br>
 
 | Achievement | Details |
@@ -32,7 +36,7 @@
 
 ---
 
-### 🛠️ Featured Projects
+### 🛡️ Featured Projects
 
 <table>
 <tr>
@@ -58,7 +62,7 @@ Elder-fraud prevention system that detects behavioral patterns preceding digital
 
 ---
 
-### 💻 Tech Stack
+### ⚔️ Tech Stack
 
 **Languages**
 
@@ -85,11 +89,11 @@ Elder-fraud prevention system that detects behavioral patterns preceding digital
 
 ---
 
-### 📊 GitHub Stats
+### 📜 GitHub Stats
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=Oxyrine&show_icons=true&theme=radical"/>
-<img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Oxyrine&layout=compact&theme=radical"/>
+<img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=Oxyrine&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&icon_color=8B5E34&text_color=F5F0E6"/>
+<img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Oxyrine&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=F5F0E6"/>
 </div>
 
 <br>
