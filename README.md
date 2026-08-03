@@ -7,23 +7,27 @@
 -->
 
 <p align="center">
-  <!-- Optional: replace with your own 1500x500 banner hosted in this repo -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D4E89&height=160&section=header" alt="banner" width="100%" />
+  <img src="./assets/banner.png" alt="[Placeholder: Minimalist Marble Texture Banner with Subtle Greek Key Border and Centered Username]" width="100%" />
 </p>
 
 <h1 align="center">🏛️ Hi, I'm [Your Username] </h1>
+
+<blockquote align="center">
+  <em>"Give me a place to stand, and a lever long enough, and I will move the world."</em><br />
+  — Archimedes
+</blockquote>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=700&color=FFD700&center=true&vCenter=true&width=620&height=50&lines=Environmental+Engineer;Full-Stack+Developer;IoT+Tinkerer;C+%26+Data+Structures+Enthusiast" alt="Titles" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Systems_%26_Full--Stack-FFD700?style=for-the-badge&labelColor=1D4E89" alt="Focus" />
-  <img src="https://img.shields.io/badge/Open_to-Internships_%26_Collaboration-F5F5F5?style=for-the-badge&labelColor=556B2F" alt="Availability" />
+  <img src="https://img.shields.io/badge/Focus-Systems_%26_Full--Stack-1D4E89?style=for-the-badge&labelColor=1D4E89&color=1D4E89" alt="Focus" />
+  <img src="https://img.shields.io/badge/Open_to-Internships_%26_Collaboration-1D4E89?style=for-the-badge&labelColor=1D4E89&color=1D4E89" alt="Availability" />
   <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile+Views&color=1D4E89&style=for-the-badge" alt="Profile views" />
 </p>
 
-<br />
+<p align="center"> ◈ ━━━━━━━━━━━━━━━ 🏛️ ━━━━━━━━━━━━━━━ ◈ </p>
 
 <h2 align="center">📜 About Me</h2>
 
@@ -38,7 +42,7 @@ My current technical focus areas:
 
 I am actively seeking internships and open-source collaboration in backend development, embedded systems, and data engineering.
 
-<br />
+<p align="center"> ◈ ━━━━━━━━━━━━━━━ 🏛️ ━━━━━━━━━━━━━━━ ◈ </p>
 
 <h2 align="center">⚙️ Technical Arsenal</h2>
 
@@ -46,31 +50,27 @@ I am actively seeking internships and open-source collaboration in backend devel
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Python-1D4E89?style=for-the-badge&logo=python&logoColor=FFD700" alt="Python" />
-<img src="https://img.shields.io/badge/C-1D4E89?style=for-the-badge&logo=c&logoColor=FFD700" alt="C" />
-<img src="https://img.shields.io/badge/JavaScript-1D4E89?style=for-the-badge&logo=javascript&logoColor=FFD700" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-1D4E89?style=for-the-badge&logo=html5&logoColor=FFD700" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1D4E89?style=for-the-badge&logo=css3&logoColor=FFD700" alt="CSS3" />
+<img src="https://img.shields.io/badge/Python-1D4E89?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=1D4E89" alt="Python" />
+<img src="https://img.shields.io/badge/C-1D4E89?style=for-the-badge&logo=c&logoColor=FFD700&labelColor=1D4E89" alt="C" />
+<img src="https://img.shields.io/badge/JavaScript-1D4E89?style=for-the-badge&logo=javascript&logoColor=FFD700&labelColor=1D4E89" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-1D4E89?style=for-the-badge&logo=html5&logoColor=FFD700&labelColor=1D4E89" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1D4E89?style=for-the-badge&logo=css3&logoColor=FFD700&labelColor=1D4E89" alt="CSS3" />
 
 **Frameworks & Tools**
 
-<img src="https://img.shields.io/badge/Flask-556B2F?style=for-the-badge&logo=flask&logoColor=F5F5F5" alt="Flask" />
-<img src="https://img.shields.io/badge/ESP32-556B2F?style=for-the-badge&logo=espressif&logoColor=F5F5F5" alt="ESP32" />
-<img src="https://img.shields.io/badge/Git-556B2F?style=for-the-badge&logo=git&logoColor=F5F5F5" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-556B2F?style=for-the-badge&logo=github&logoColor=F5F5F5" alt="GitHub" />
+<img src="https://img.shields.io/badge/Flask-1D4E89?style=for-the-badge&logo=flask&logoColor=F5F5F5&labelColor=1D4E89" alt="Flask" />
+<img src="https://img.shields.io/badge/ESP32-1D4E89?style=for-the-badge&logo=espressif&logoColor=F5F5F5&labelColor=1D4E89" alt="ESP32" />
+<img src="https://img.shields.io/badge/Git-1D4E89?style=for-the-badge&logo=git&logoColor=F5F5F5&labelColor=1D4E89" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-1D4E89?style=for-the-badge&logo=github&logoColor=F5F5F5&labelColor=1D4E89" alt="GitHub" />
 
 **Concepts & Domains**
 
-<img src="https://img.shields.io/badge/Data_Structures-1D4E89?style=for-the-badge&labelColor=FFD700&color=1D4E89" alt="Data Structures" />
-<img src="https://img.shields.io/badge/Digital_Rights_Management-1D4E89?style=for-the-badge&labelColor=FFD700&color=1D4E89" alt="DRM" />
-<img src="https://img.shields.io/badge/Internet_of_Things-1D4E89?style=for-the-badge&labelColor=FFD700&color=1D4E89" alt="IoT" />
-<img src="https://img.shields.io/badge/Data_Science-1D4E89?style=for-the-badge&labelColor=FFD700&color=1D4E89" alt="Data Science" />
+<img src="https://img.shields.io/badge/Data_Structures-1D4E89?style=for-the-badge&labelColor=1D4E89&color=1D4E89" alt="Data Structures" />
+<img src="https://img.shields.io/badge/Digital_Rights_Management-1D4E89?style=for-the-badge&labelColor=1D4E89&color=1D4E89" alt="DRM" />
+<img src="https://img.shields.io/badge/Internet_of_Things-1D4E89?style=for-the-badge&labelColor=1D4E89&color=1D4E89" alt="IoT" />
+<img src="https://img.shields.io/badge/Data_Science-1D4E89?style=for-the-badge&labelColor=1D4E89&color=1D4E89" alt="Data Science" />
 
-</div>
-
-<br />
-
-<div align="center">
+<br /><br />
 
 | Domain | Technologies | Applied In |
 |:------:|:-------------|:-----------|
@@ -83,7 +83,7 @@ I am actively seeking internships and open-source collaboration in backend devel
 
 </div>
 
-<br />
+<p align="center"> ◈ ━━━━━━━━━━━━━━━ 🏛️ ━━━━━━━━━━━━━━━ ◈ </p>
 
 <h2 align="center">🏛️ Featured Projects</h2>
 
@@ -98,7 +98,7 @@ A lightweight **Digital Rights Management (DRM)** software solution designed for
 **Stack:** Python · Access Control · Licensing
 
 <a href="https://github.com/YOUR-USERNAME/dekrypt">
-  <img src="https://img.shields.io/badge/View_Repository-1D4E89?style=flat-square&logo=github&logoColor=FFD700" alt="Repo" />
+  <img src="https://img.shields.io/badge/View_Repository-1D4E89?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=1D4E89" alt="Repo" />
 </a>
 
 </td>
@@ -111,7 +111,7 @@ An **IoT-based sustainable gardening system** utilizing an ESP32 microcontroller
 **Stack:** ESP32 · C/C++ · Sensor Integration · Solar Power
 
 <a href="https://github.com/YOUR-USERNAME/smart-garden">
-  <img src="https://img.shields.io/badge/View_Repository-556B2F?style=flat-square&logo=github&logoColor=F5F5F5" alt="Repo" />
+  <img src="https://img.shields.io/badge/View_Repository-1D4E89?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=1D4E89" alt="Repo" />
 </a>
 
 </td>
@@ -126,7 +126,7 @@ A **full-stack document analysis web application** built with Python, Flask, and
 **Stack:** Python · Flask · OCR · HTML/CSS
 
 <a href="https://github.com/YOUR-USERNAME/syllabus-analyzer">
-  <img src="https://img.shields.io/badge/View_Repository-1D4E89?style=flat-square&logo=github&logoColor=FFD700" alt="Repo" />
+  <img src="https://img.shields.io/badge/View_Repository-1D4E89?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=1D4E89" alt="Repo" />
 </a>
 
 </td>
@@ -139,14 +139,14 @@ An **interactive web-based voice assistant interface** built with HTML, CSS, and
 **Stack:** JavaScript · Web Speech API · HTML5 · CSS3
 
 <a href="https://github.com/YOUR-USERNAME/vanguard-voice-assist">
-  <img src="https://img.shields.io/badge/View_Repository-556B2F?style=flat-square&logo=github&logoColor=F5F5F5" alt="Repo" />
+  <img src="https://img.shields.io/badge/View_Repository-1D4E89?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=1D4E89" alt="Repo" />
 </a>
 
 </td>
 </tr>
 </table>
 
-<br />
+<p align="center"> ◈ ━━━━━━━━━━━━━━━ 🏛️ ━━━━━━━━━━━━━━━ ◈ </p>
 
 <h2 align="center">⚡ GitHub Analytics</h2>
 
@@ -159,25 +159,23 @@ An **interactive web-based voice assistant interface** built with HTML, CSS, and
   <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&hide_border=false&background=1D4E89&border=FFD700&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=FFD700&sideLabels=F5F5F5&dates=F5F5F5&border_radius=10" alt="GitHub Streak" />
 </p>
 
-<br />
+<p align="center"> ◈ ━━━━━━━━━━━━━━━ 🏛️ ━━━━━━━━━━━━━━━ ◈ </p>
 
 <h2 align="center">📬 Connect</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-1D4E89?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-1D4E89?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=1D4E89" alt="LinkedIn" />
   </a>
   <a href="mailto:YOUR-EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-556B2F?style=for-the-badge&logo=gmail&logoColor=F5F5F5" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-1D4E89?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=1D4E89" alt="Email" />
   </a>
   <a href="https://YOUR-PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-1D4E89?style=for-the-badge&logo=googlechrome&logoColor=FFD700" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-1D4E89?style=for-the-badge&logo=googlechrome&logoColor=FFD700&labelColor=1D4E89" alt="Portfolio" />
   </a>
   <a href="https://github.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-1D4E89?style=for-the-badge&logo=github&logoColor=FFD700" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-1D4E89?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=1D4E89" alt="GitHub" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D4E89&height=120&section=footer" alt="footer" width="100%" />
-</p>
+<p align="center"> ◈ ━━━━━━━━━━━━━━━ 🏛️ ━━━━━━━━━━━━━━━ ◈ </p>
