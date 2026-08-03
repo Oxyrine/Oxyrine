@@ -1,120 +1,258 @@
+<!--
+════════════════════════════════════════════════════════════════
+  🏛️  TEMPLE OF CODE — GitHub Profile README
+  Palette: Aegean #1D4E89 · Marble #F5F5F5 · Gold #FFD700 · Olive #556B2F
+  Replace every YOUR-USERNAME / YOUR-LINK placeholder before publishing.
+════════════════════════════════════════════════════════════════
+-->
+
+<!-- ═══════════════ I. THE PARTHENON ═══════════════ -->
+
+<p align="center">
+  <!-- Swap this for your own 1500x500 marble banner hosted in this repo:
+       <img src="./assets/banner.png" alt="Temple of Code" width="100%" /> -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D4E89&height=200&section=header&text=Temple%20of%20Code&fontSize=60&fontColor=FFD700&fontAlign=50&fontAlignY=35&desc=Where%20Marble%20Meets%20Machine&descSize=18&descColor=F5F5F5&descAlignY=55" alt="Temple of Code banner" width="100%" />
+</p>
+
+<h1 align="center">🏛️ Welcome to the Temple of Code 🏛️</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=2800&pause=700&color=FFD700&center=true&vCenter=true&width=620&height=60&lines=Environmental+Engineer;Full-Stack+Developer;IoT+Tinkerer;C+%26+Data+Structures+Enthusiast" alt="Titles of the Architect" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡_Status-Building_in_Marble_and_Code-FFD700?style=for-the-badge&labelColor=1D4E89" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Pilgrims+to+the+Temple&color=1D4E89&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
+  <code>⸻ ⚱️ ⸻ 🔱 ⸻ ⚱️ ⸻</code>
+</p>
+
+> 📜 **INSCRIPTION UPON THE PEDIMENT**
+>
+> *"Two temples do I tend: one of stone, air and water — the other of logic, memory and light.*
+> *I am a scholar of **environmental chemistry engineering** and an architect of **software**,*
+> *and I hold that a well-built system, like a well-built colonnade, must serve the living world*
+> *long after its builder has gone."*
+
+<br />
+
+<!-- ═══════════════ II. THE MYTHOS ═══════════════ -->
+
+<h2 align="center">🏺 The Mythos — Of Whom This Temple Speaks 🏺</h2>
+
+<p align="center">
+  <em>Every craftsman begins as a mortal. The quest is what forges the rest.</em>
+</p>
+
+The tale begins in the laboratory — beakers, effluents, and the stubborn chemistry of a planet under strain. But the instruments spoke in **data**, and data demanded a second discipline. So the journey turned toward the forge.
+
+**The labors presently underway:**
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:24243e,100:8b5e34&height=200&section=header&text=Hi%20There!%20I'm%20Aakash%20%E2%9A%94%EF%B8%8F&fontSize=40&fontColor=D4AF37&animation=fadeIn&fontAlignY=38" width="100%"/>
-
-*Building with Odysseus's patience, shipping with Achilles's edge.*
-
-<img src="https://readme-typing-svg.demolab.com/?font=Cinzel&size=20&pause=1800&color=D4AF37&center=true&vCenter=true&width=650&lines=Breaking+complex+problems+into+simple+steps;Deep+in+DSA+%2B+Java+right+now;Building+real%2C+deployable+projects;Open+to+collab+%26+open+source" alt="Typing SVG" />
+| ⚱️ | The Trial | The Pursuit |
+|:--:|:----------|:------------|
+| 🧠 | **The Labyrinth of Memory** | Descending into low-level **C** — linked lists, binary search trees, and the honest arithmetic of pointers |
+| 🕸️ | **The Loom of Athena** | Weaving web frameworks, spinning **Flask** routes into cloth that holds |
+| 🔭 | **The Astrolabe** | Charting the full **data science lifecycle** — from raw ore to refined insight |
+| 🌍 | **The Covenant with Gaia** | Binding silicon to soil: sensors, sustainability, and systems that give back |
 
 </div>
 
-<br>
+> 🦉 **THE OWL'S COUNSEL** — *"Ship it, then perfect it. Athena favours the builder over the theorist."*
 
----
+<br />
 
-### 🏛️ About Me
+<!-- ═══════════════ III. THE ARSENAL ═══════════════ -->
 
-- 🔭 CS undergrad focused on **DSA, clean code, and real-world project building**
-- 🌱 Currently sharpening **Python, Java, and web development**
-- ☁️ Exploring **cloud computing & database management**
-- 🤝 Looking to collaborate on **open source** and small creative tech projects
-- 🎯 Long-term goal: become **industry-ready** and build toward a career at a top tech company
-- ⚡ I'd rather understand *why* a line of code works than just copy-paste it
+<h2 align="center">⚒️ The Arsenal of Hephaestus ⚒️</h2>
 
-<details>
-<summary>🏆 Achievements (click to expand)</summary>
-<br>
+<p align="center">
+  <em>Forged in the fires beneath Olympus — the tools of the trade.</em>
+</p>
 
-| Achievement | Details |
-|---|---|
-| 🥇 **1st Place** — MIND SPARK Innovation Challenge | Built **Krypts**, a plug-and-play DRM system |
-| 🥈 **2nd Place** — Technical Interview Challenge | Placed among 128 participants across multiple interview rounds |
+<div align="center">
 
-</details>
+### ⚡ Tongues of Mortals & Gods
 
-<br>
+<img src="https://img.shields.io/badge/Python-1D4E89?style=for-the-badge&logo=python&logoColor=FFD700" alt="Python" />
+<img src="https://img.shields.io/badge/C-1D4E89?style=for-the-badge&logo=c&logoColor=FFD700" alt="C" />
+<img src="https://img.shields.io/badge/JavaScript-1D4E89?style=for-the-badge&logo=javascript&logoColor=FFD700" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-1D4E89?style=for-the-badge&logo=html5&logoColor=FFD700" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1D4E89?style=for-the-badge&logo=css3&logoColor=FFD700" alt="CSS3" />
 
----
+### 🔨 Hammers & Anvils
 
-### 🛡️ Featured Projects
+<img src="https://img.shields.io/badge/Flask-556B2F?style=for-the-badge&logo=flask&logoColor=F5F5F5" alt="Flask" />
+<img src="https://img.shields.io/badge/ESP32-556B2F?style=for-the-badge&logo=espressif&logoColor=F5F5F5" alt="ESP32" />
+<img src="https://img.shields.io/badge/Git-556B2F?style=for-the-badge&logo=git&logoColor=F5F5F5" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-556B2F?style=for-the-badge&logo=github&logoColor=F5F5F5" alt="GitHub" />
 
-<table>
+### 📜 Sacred Doctrines
+
+<img src="https://img.shields.io/badge/Digital_Rights_Management-FFD700?style=for-the-badge&logoColor=1D4E89&labelColor=FFD700&color=1D4E89" alt="DRM" />
+<img src="https://img.shields.io/badge/Data_Structures-FFD700?style=for-the-badge&labelColor=FFD700&color=1D4E89" alt="Data Structures" />
+<img src="https://img.shields.io/badge/Internet_of_Things-FFD700?style=for-the-badge&labelColor=FFD700&color=1D4E89" alt="IoT" />
+<img src="https://img.shields.io/badge/Data_Science-FFD700?style=for-the-badge&labelColor=FFD700&color=1D4E89" alt="Data Science" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+| 🏛️ Pillar | Domain | Command of the Craft |
+|:---------:|:-------|:---------------------|
+| **I** | Systems & Memory | `C` · Pointers · Trees · Linked Lists |
+| **II** | Web & Application | `Python` · `Flask` · `JavaScript` · `HTML/CSS` |
+| **III** | Hardware & Earth | `ESP32` · Sensors · Solar Systems · IoT |
+| **IV** | Data & Insight | Analysis · Visualisation · The DS Lifecycle |
+
+</div>
+
+<br />
+
+<!-- ═══════════════ IV. THE EPIC LABORS ═══════════════ -->
+
+<h2 align="center">🔱 The Epic Labors 🔱</h2>
+
+<p align="center">
+  <em>Four feats set in stone. Each one a monument; each one still standing.</em>
+</p>
+
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-**🔐 Krypts**
-Plug-and-play DRM system for indie creators & startups. OS-level screenshot blocking via Electron, FastAPI backend, deployed on Railway/Vercel.
-🥇 *1st place, MIND SPARK Innovation Challenge*
+### 🛡️ The Shield of Aegis
+**`Dekrypt`**
+
+> *Forged to guard what mortals create.*
+
+A lightweight **DRM** solution wrapped in a calm beige-and-green visage — protection that neither shouts nor stumbles. Access control for creators who would rather build than litigate.
+
+<img src="https://img.shields.io/badge/DRM-1D4E89?style=flat-square&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/Python-1D4E89?style=flat-square&logo=python&logoColor=FFD700" />
+
+**[⚔️ Enter the Armoury](https://github.com/YOUR-USERNAME/dekrypt)**
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-**🛡️ Aegis Shield**
-Elder-fraud prevention system that detects behavioral patterns preceding digital-arrest scams. Weighted risk-scoring engine with SMS + guardian voice alerts via Twilio & ElevenLabs.
+### 🌾 The Domain of Demeter
+**`Smart Garden`**
+
+> *She who makes the earth yield, now speaks in packets.*
+
+An **ESP32**-powered sustainable gardening system. Soil-moisture sensors read the land's thirst; solar power keeps the vigil unbroken. Agriculture, automated and off-grid.
+
+<img src="https://img.shields.io/badge/ESP32-556B2F?style=flat-square&logo=espressif&logoColor=F5F5F5" />
+<img src="https://img.shields.io/badge/IoT-556B2F?style=flat-square&logoColor=F5F5F5" />
+
+**[🌱 Walk the Fields](https://github.com/YOUR-USERNAME/smart-garden)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🔮 The Oracle's Scroll
+**`Syllabus & Exam Analyzer`**
+
+> *Bring your parchment. Receive your prophecy.*
+
+A **Flask** web application with **OCR** at its heart — it reads syllabi and examination papers, then reveals the patterns hidden in them. Delphi, but with document parsing.
+
+<img src="https://img.shields.io/badge/Flask-1D4E89?style=flat-square&logo=flask&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/OCR-1D4E89?style=flat-square&logoColor=FFD700" />
+
+**[📜 Consult the Oracle](https://github.com/YOUR-USERNAME/syllabus-analyzer)**
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 🪶 The Echo of Hermes
+**`Vanguard Voice Assist`**
+
+> *The messenger god, given a browser.*
+
+A futuristic web-based **voice assistant** interface. Speak, and the machine attends — commands carried on winged sandals from tongue to terminal.
+
+<img src="https://img.shields.io/badge/JavaScript-1D4E89?style=flat-square&logo=javascript&logoColor=FFD700" />
+<img src="https://img.shields.io/badge/Web_Speech_API-1D4E89?style=flat-square&logoColor=FFD700" />
+
+**[🗣️ Summon the Messenger](https://github.com/YOUR-USERNAME/vanguard-voice-assist)**
 
 </td>
 </tr>
 </table>
 
-<sub>💡 Add repo links here once they're public — happy to turn these into linked project cards too.</sub>
+<br />
 
-<br>
+<!-- ═══════════════ V. THE PANTHEON ═══════════════ -->
 
----
+<h2 align="center">📊 The Pantheon of Contributions 📊</h2>
 
-### ⚔️ Tech Stack
+<p align="center">
+  <em>The Fates keep their ledger. Here is what they have recorded.</em>
+</p>
 
-**Languages**
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&count_private=true&hide_border=false&title_color=FFD700&icon_color=FFD700&text_color=F5F5F5&bg_color=1D4E89&border_color=FFD700&border_radius=10" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=8&hide_border=false&title_color=FFD700&text_color=F5F5F5&bg_color=1D4E89&border_color=FFD700&border_radius=10" alt="Top Languages" />
+</p>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&hide_border=false&background=1D4E89&border=FFD700&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=FFD700&sideLabels=F5F5F5&dates=F5F5F5&border_radius=10" alt="GitHub Streak" />
+</p>
 
-**Web**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies of Olympus" />
+</p>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+> ⚡ **DECREE OF ZEUS** — *"Consistency is the thunderbolt. Wield it daily, and mountains move."*
 
-**Databases**
+<br />
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<!-- ═══════════════ VI. SUMMON THE ORACLE ═══════════════ -->
 
-**Currently Learning**
+<h2 align="center">🕊️ Summon the Oracle 🕊️</h2>
 
-![DSA](https://img.shields.io/badge/DSA-000000?style=for-the-badge)
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+<p align="center">
+  <em>Send word by messenger, or descend to Delphi yourself.</em>
+</p>
 
-<br>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-1D4E89?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-556B2F?style=for-the-badge&logo=gmail&logoColor=F5F5F5" alt="Email" />
+  </a>
+  <a href="https://YOUR-PORTFOLIO.com">
+    <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=googlechrome&logoColor=1D4E89&labelColor=FFD700&color=1D4E89" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/YOUR-USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-1D4E89?style=for-the-badge&logo=github&logoColor=FFD700" alt="GitHub" />
+  </a>
+</p>
 
----
-
-### 📜 GitHub Stats
-
-<div align="center">
-<img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=Oxyrine&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&icon_color=8B5E34&text_color=F5F0E6"/>
-<img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Oxyrine&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=F5F0E6"/>
-</div>
-
-<br>
-
----
-
-### 🌐 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-wwwa-cse/)
-
-</div>
-
-<br>
+<br />
 
 <div align="center">
 
-> *"If Microsoft ever does applications for Linux, it means I've won."*
-> — Linus Torvalds
+| 🏛️ | 🏺 | ⚡ | 🦉 | 🔱 | 📜 |
+|:--:|:--:|:--:|:--:|:--:|:--:|
 
 </div>
 
-<sub align="center">Proudly crafted with 💙 · powered by <a href="https://gprm.itsvg.in">GPRM</a></sub>
+> 🏛️ **CLOSING INSCRIPTION**
+>
+> *"Ἀεὶ ὁ θεὸς γεωμετρεῖ" — God ever geometrises.*
+> *Build with symmetry. Build with purpose. Build to outlast yourself.*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D4E89&height=140&section=footer" alt="footer" width="100%" />
+</p>
