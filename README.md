@@ -1,29 +1,28 @@
 <!--
 ════════════════════════════════════════════════════════════════
-  GitHub Profile README
+  GitHub Profile README — Aakash
   Palette: #1D4E89 (Aegean) · #F5F5F5 (Marble) · #FFD700 (Gold) · #556B2F (Olive)
-  Replace all YOUR-USERNAME / YOUR-LINK placeholders before publishing.
+  Replace all YOUR-USERNAME / YOUR-LINK / placeholder values before publishing.
 ════════════════════════════════════════════════════════════════
 -->
 
 <p align="center">
-  <img src="./assets/banner.png" alt="[Placeholder: Minimalist Marble Texture Banner with Subtle Greek Key Border and Centered Username]" width="100%" />
+  <img src="./assets/banner.png" alt="[Placeholder: Minimalist Marble Texture Banner with Subtle Greek Key Border]" width="100%" />
 </p>
 
-<h1 align="center">🏛️ Hi, I'm [Your Username] </h1>
-
-<blockquote align="center">
-  <em>"Give me a place to stand, and a lever long enough, and I will move the world."</em><br />
-  — Archimedes
-</blockquote>
+<h1 align="center">🏛️ Hi, I'm Aakash </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=700&color=FFD700&center=true&vCenter=true&width=620&height=50&lines=Environmental+Engineer;Full-Stack+Developer;IoT+Tinkerer;C+%26+Data+Structures+Enthusiast" alt="Titles" />
+  <em>"Number is the ruler of forms and ideas." — Pythagoras</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Systems_%26_Full--Stack-1D4E89?style=for-the-badge&labelColor=1D4E89&color=1D4E89" alt="Focus" />
-  <img src="https://img.shields.io/badge/Open_to-Internships_%26_Collaboration-1D4E89?style=for-the-badge&labelColor=1D4E89&color=1D4E89" alt="Availability" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=700&color=FFD700&center=true&vCenter=true&width=650&height=50&lines=B.E.+CSE+Student+%40+SRM+IST;DSA+%26+Competitive+Programming;Full-Stack+Web+Developer;Aspiring+Cloud+%26+Backend+Engineer" alt="Titles" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-DSA_%7C_Full--Stack_%7C_Cloud-1D4E89?style=for-the-badge&labelColor=1D4E89&color=1D4E89" alt="Focus" />
+  <img src="https://img.shields.io/badge/Open_to-Open_Source_%26_Mentorship-1D4E89?style=for-the-badge&labelColor=1D4E89&color=1D4E89" alt="Availability" />
   <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile+Views&color=1D4E89&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -31,114 +30,65 @@
 
 <h2 align="center">📜 About Me</h2>
 
-I am a first-year **Environmental Chemistry Engineering** student with a strong parallel focus on **software architecture and development**. My work sits at the intersection of applied engineering and computing — building systems that are measurable, maintainable, and grounded in real constraints.
+I'm a first-year **Computer Science and Engineering** student who enjoys breaking complex problems down into simple, logical steps. I'm currently sharpening my skills in **Python** and **web development**, with the goal of contributing meaningfully to open-source projects — writing code that's clean, efficient, and easy to reason about.
 
-My current technical focus areas:
+Right now, I'm actively learning:
 
-- **Low-level memory management and data structures in C** — pointer arithmetic, dynamic allocation, linked lists, and binary search trees, with emphasis on time/space complexity and correctness.
-- **Full-stack web development** — building and deploying Python/Flask applications with REST routing, templating, and third-party service integration.
-- **Data science lifecycle** — data collection, cleaning, exploratory analysis, and visualization, working toward applied modeling.
-- **Embedded systems and IoT** — ESP32-based sensor networks with a focus on power efficiency and sustainable resource management.
+- **Data Structures & Algorithms** — problem-solving across arrays, hashing, sliding window, and graph/tree patterns, practiced consistently on LeetCode
+- **Cloud Computing** — foundational concepts in deployment, scalability, and managed services
+- **Database Management** — relational design, querying, and data modeling
+- **Web Development** — building and shipping full-stack applications end to end
 
-I am actively seeking internships and open-source collaboration in backend development, embedded systems, and data engineering.
+I'm looking to collaborate with other learners and developers who enjoy discussing coding logic or building small, creative tech projects together. I'd also welcome mentorship in **Python, C, Java**, or other languages, and guidance on real-world project building — I'm aiming to build the depth needed to work at top engineering organizations.
 
 <p align="center"> ◈ ━━━━━━━━━━━━━━━ 🏛️ ━━━━━━━━━━━━━━━ ◈ </p>
 
-<h2 align="center">⚙️ Technical Arsenal</h2>
+<h2 align="center">⚙️ Tech Stack</h2>
 
 <div align="center">
 
 **Languages**
 
 <img src="https://img.shields.io/badge/Python-1D4E89?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=1D4E89" alt="Python" />
+<img src="https://img.shields.io/badge/Java-1D4E89?style=for-the-badge&logo=openjdk&logoColor=FFD700&labelColor=1D4E89" alt="Java" />
 <img src="https://img.shields.io/badge/C-1D4E89?style=for-the-badge&logo=c&logoColor=FFD700&labelColor=1D4E89" alt="C" />
 <img src="https://img.shields.io/badge/JavaScript-1D4E89?style=for-the-badge&logo=javascript&logoColor=FFD700&labelColor=1D4E89" alt="JavaScript" />
 <img src="https://img.shields.io/badge/HTML5-1D4E89?style=for-the-badge&logo=html5&logoColor=FFD700&labelColor=1D4E89" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1D4E89?style=for-the-badge&logo=css3&logoColor=FFD700&labelColor=1D4E89" alt="CSS3" />
 
-**Frameworks & Tools**
+**Frameworks, Tools & Platforms**
 
 <img src="https://img.shields.io/badge/Flask-1D4E89?style=for-the-badge&logo=flask&logoColor=F5F5F5&labelColor=1D4E89" alt="Flask" />
-<img src="https://img.shields.io/badge/ESP32-1D4E89?style=for-the-badge&logo=espressif&logoColor=F5F5F5&labelColor=1D4E89" alt="ESP32" />
 <img src="https://img.shields.io/badge/Git-1D4E89?style=for-the-badge&logo=git&logoColor=F5F5F5&labelColor=1D4E89" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-1D4E89?style=for-the-badge&logo=github&logoColor=F5F5F5&labelColor=1D4E89" alt="GitHub" />
+<img src="https://img.shields.io/badge/MySQL-1D4E89?style=for-the-badge&logo=mysql&logoColor=F5F5F5&labelColor=1D4E89" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-1D4E89?style=for-the-badge&logo=mongodb&logoColor=F5F5F5&labelColor=1D4E89" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Notion-1D4E89?style=for-the-badge&logo=notion&logoColor=F5F5F5&labelColor=1D4E89" alt="Notion" />
 
 **Concepts & Domains**
 
-<img src="https://img.shields.io/badge/Data_Structures-1D4E89?style=for-the-badge&labelColor=1D4E89&color=1D4E89" alt="Data Structures" />
-<img src="https://img.shields.io/badge/Digital_Rights_Management-1D4E89?style=for-the-badge&labelColor=1D4E89&color=1D4E89" alt="DRM" />
-<img src="https://img.shields.io/badge/Internet_of_Things-1D4E89?style=for-the-badge&labelColor=1D4E89&color=1D4E89" alt="IoT" />
-<img src="https://img.shields.io/badge/Data_Science-1D4E89?style=for-the-badge&labelColor=1D4E89&color=1D4E89" alt="Data Science" />
-
-<br /><br />
-
-| Domain | Technologies | Applied In |
-|:------:|:-------------|:-----------|
-| **Systems Programming** | C, pointers, dynamic memory, linked lists, BSTs | Coursework, algorithm implementations |
-| **Backend & Web** | Python, Flask, REST routing, Jinja templating | Syllabus & Exam Analyzer |
-| **Frontend** | HTML5, CSS3, JavaScript, Web APIs | Vanguard Voice Assist |
-| **Embedded & IoT** | ESP32, soil moisture sensors, solar power integration | Smart Garden |
-| **Security** | Access control, licensing, DRM implementation | Dekrypt |
-| **Data** | Data cleaning, EDA, visualization | Ongoing coursework and self-study |
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-1D4E89?style=for-the-badge&labelColor=1D4E89&color=1D4E89" alt="DSA" />
+<img src="https://img.shields.io/badge/Cloud_Computing-1D4E89?style=for-the-badge&labelColor=1D4E89&color=1D4E89" alt="Cloud Computing" />
+<img src="https://img.shields.io/badge/Database_Management-1D4E89?style=for-the-badge&labelColor=1D4E89&color=1D4E89" alt="DBMS" />
+<img src="https://img.shields.io/badge/Full--Stack_Development-1D4E89?style=for-the-badge&labelColor=1D4E89&color=1D4E89" alt="Full-Stack" />
 
 </div>
 
 <p align="center"> ◈ ━━━━━━━━━━━━━━━ 🏛️ ━━━━━━━━━━━━━━━ ◈ </p>
 
-<h2 align="center">🏛️ Featured Projects</h2>
+<h2 align="center">🏛️ Featured Project</h2>
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top" align="center">
 
-### 🔐 Dekrypt
+### 🔐 Krypts
 
-A lightweight **Digital Rights Management (DRM)** software solution designed for secure access control. Implements licensing and content-protection logic in a minimal, low-overhead package intended for independent creators and small teams.
+A **plug-and-play Digital Rights Management (DRM) system** built for startups and independent creators, featuring OS-level screenshot blocking via Electron, a Python/FastAPI backend, and deployment on Railway/Vercel. Placed **1st at the MIND SPARK Innovation Challenge**.
 
-**Stack:** Python · Access Control · Licensing
+**Stack:** Electron · Python · FastAPI · Railway · Vercel
 
-<a href="https://github.com/YOUR-USERNAME/dekrypt">
-  <img src="https://img.shields.io/badge/View_Repository-1D4E89?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=1D4E89" alt="Repo" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 Smart Garden
-
-An **IoT-based sustainable gardening system** utilizing an ESP32 microcontroller, soil moisture sensors, and solar power integration for automated resource management. Sensor readings drive irrigation decisions, minimizing water use while operating off-grid.
-
-**Stack:** ESP32 · C/C++ · Sensor Integration · Solar Power
-
-<a href="https://github.com/YOUR-USERNAME/smart-garden">
-  <img src="https://img.shields.io/badge/View_Repository-1D4E89?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=1D4E89" alt="Repo" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📄 Syllabus & Exam Analyzer
-
-A **full-stack document analysis web application** built with Python, Flask, and OCR technologies for automated text extraction and structuring. Accepts uploaded syllabi and examination papers, extracts machine-readable text, and organizes the output into structured, queryable data.
-
-**Stack:** Python · Flask · OCR · HTML/CSS
-
-<a href="https://github.com/YOUR-USERNAME/syllabus-analyzer">
-  <img src="https://img.shields.io/badge/View_Repository-1D4E89?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=1D4E89" alt="Repo" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎙️ Vanguard Voice Assist
-
-An **interactive web-based voice assistant interface** built with HTML, CSS, and JavaScript. Handles speech input and command routing entirely in the browser, with a responsive front-end designed around real-time feedback.
-
-**Stack:** JavaScript · Web Speech API · HTML5 · CSS3
-
-<a href="https://github.com/YOUR-USERNAME/vanguard-voice-assist">
+<a href="https://github.com/YOUR-USERNAME/krypts">
   <img src="https://img.shields.io/badge/View_Repository-1D4E89?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=1D4E89" alt="Repo" />
 </a>
 
@@ -146,9 +96,13 @@ An **interactive web-based voice assistant interface** built with HTML, CSS, and
 </tr>
 </table>
 
+<p align="center">
+  <sub>💡 Add more project cards here in the same table format as you ship new work.</sub>
+</p>
+
 <p align="center"> ◈ ━━━━━━━━━━━━━━━ 🏛️ ━━━━━━━━━━━━━━━ ◈ </p>
 
-<h2 align="center">⚡ GitHub Analytics</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&count_private=true&hide_border=false&title_color=FFD700&icon_color=FFD700&text_color=F5F5F5&bg_color=1D4E89&border_color=FFD700&border_radius=10" alt="GitHub Stats" />
@@ -157,6 +111,10 @@ An **interactive web-based voice assistant interface** built with HTML, CSS, and
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&hide_border=false&background=1D4E89&border=FFD700&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=FFD700&sideLabels=F5F5F5&dates=F5F5F5&border_radius=10" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=8&row=1" alt="GitHub Trophies" />
 </p>
 
 <p align="center"> ◈ ━━━━━━━━━━━━━━━ 🏛️ ━━━━━━━━━━━━━━━ ◈ </p>
@@ -170,8 +128,8 @@ An **interactive web-based voice assistant interface** built with HTML, CSS, and
   <a href="mailto:YOUR-EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-1D4E89?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=1D4E89" alt="Email" />
   </a>
-  <a href="https://YOUR-PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-1D4E89?style=for-the-badge&logo=googlechrome&logoColor=FFD700&labelColor=1D4E89" alt="Portfolio" />
+  <a href="https://leetcode.com/YOUR-LEETCODE">
+    <img src="https://img.shields.io/badge/LeetCode-1D4E89?style=for-the-badge&logo=leetcode&logoColor=FFD700&labelColor=1D4E89" alt="LeetCode" />
   </a>
   <a href="https://github.com/YOUR-USERNAME">
     <img src="https://img.shields.io/badge/GitHub-1D4E89?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=1D4E89" alt="GitHub" />
