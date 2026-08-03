@@ -88,20 +88,8 @@ Elder-fraud prevention system that detects behavioral patterns preceding digital
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Oxyrine&show_icons=true&theme=radical"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxyrine&layout=compact&theme=radical"/>
-</div>
-
-<div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Oxyrine&theme=radical&hide_border=false"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Oxyrine&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
-</div>
-
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Oxyrine&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+<img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=Oxyrine&show_icons=true&theme=radical"/>
+<img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Oxyrine&layout=compact&theme=radical"/>
 </div>
 
 <br>
