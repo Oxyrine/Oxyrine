@@ -6,7 +6,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/banner.png" alt="[Placeholder: Minimalist Marble Texture Banner with Subtle Greek Key Border]" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D4E89&height=180&section=header" alt="Header banner" width="100%" />
 </p>
 
 <h1 align="center">🏛️ Hi, I'm Aakash </h1>
