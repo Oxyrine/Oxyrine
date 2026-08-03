@@ -113,10 +113,4 @@ Elder-fraud prevention system that detects behavioral patterns preceding digital
 
 </div>
 
-<div align="center">
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=Oxyrine&icon=0&color=0)
-
-</div>
-
 <sub align="center">Proudly crafted with 💙 · powered by <a href="https://gprm.itsvg.in">GPRM</a></sub>
