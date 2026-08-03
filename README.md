@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Hi%20There!%20I'm%20Aakash%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=CS%20Student%20%7C%20DSA%20Enthusiast%20%7C%20Building%20Real%20Things&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=200&section=header&text=Hi%20There!%20I'm%20Aakash%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2A97F5&center=true&vCenter=true&width=600&lines=Breaking+complex+problems+into+simple+steps;Deep+in+DSA+%2B+Java+right+now;Building+real%2C+deployable+projects;Open+to+collab+%26+open+source+%F0%9F%92%A1" alt="Typing SVG" />
 
@@ -25,7 +25,6 @@
 |---|---|
 | 🥇 **1st Place** — MIND SPARK Innovation Challenge | Built **Krypts**, a plug-and-play DRM system |
 | 🥈 **2nd Place** — Technical Interview Challenge | Placed among 128 participants across multiple interview rounds |
-| 🚀 **Hackathon Build** — PecHacks | Built **Aegis Shield** with team Athena |
 
 </details>
 
@@ -48,7 +47,6 @@ Plug-and-play DRM system for indie creators & startups. OS-level screenshot bloc
 
 **🛡️ Aegis Shield**
 Elder-fraud prevention system that detects behavioral patterns preceding digital-arrest scams. Weighted risk-scoring engine with SMS + guardian voice alerts via Twilio & ElevenLabs.
-🚀 *Built at PecHacks*
 
 </td>
 </tr>
