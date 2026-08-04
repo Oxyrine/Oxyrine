@@ -67,10 +67,9 @@ I'm looking to collaborate with other learners and developers who enjoy discussi
 
 **Frameworks, Tools & Platforms**
 
-<img src="https://img.shields.io/badge/Flask-1D4E89?style=for-the-badge&logo=flask&logoColor=F5F5F5&labelColor=1D4E89" alt="Flask" />
+<img src="https://img.shields.io/badge/FastAPI-1D4E89?style=for-the-badge&logo=fastapi&logoColor=F5F5F5&labelColor=1D4E89" alt="FastAPI" />
 <img src="https://img.shields.io/badge/Git-1D4E89?style=for-the-badge&logo=git&logoColor=F5F5F5&labelColor=1D4E89" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-1D4E89?style=for-the-badge&logo=github&logoColor=F5F5F5&labelColor=1D4E89" alt="GitHub" />
-<img src="https://img.shields.io/badge/Notion-1D4E89?style=for-the-badge&logo=notion&logoColor=F5F5F5&labelColor=1D4E89" alt="Notion" />
 
 **Concepts & Domains**
 
