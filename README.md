@@ -139,7 +139,7 @@ An **interactive cyber-awareness and threat-defense platform** that trains users
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Oxyrine&hide_border=false&background=1D4E89&border=FFD700&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=FFD700&sideLabels=F5F5F5&dates=F5F5F5&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oxyrine&theme=react-dark&bg_color=1D4E89&color=FFD700&line=FFD700&point=F5F5F5&area=true&area_color=FFD700&title_color=FFD700&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 <p align="center">
@@ -151,7 +151,7 @@ An **interactive cyber-awareness and threat-defense platform** that trains users
 <h2 align="center">📬 Connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aakash-a-cse/">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-1D4E89?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=1D4E89" alt="LinkedIn" />
   </a>
   <a href="mailto:aakasharyan2007@gmail.com">
