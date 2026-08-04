@@ -143,7 +143,7 @@ An **interactive cyber-awareness and threat-defense platform** that trains users
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Oxyrine&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=8&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-eight-ochre.vercel.app/?username=Oxyrine&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=8&row=1" alt="GitHub Trophies" />
 </p>
 
 <p align="center"> ◈ ━━━━━━━━━━━━━━━ 🏛️ ━━━━━━━━━━━━━━━ ◈ </p>
