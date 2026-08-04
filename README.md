@@ -134,8 +134,8 @@ An **interactive cyber-awareness and threat-defense platform** that trains users
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oxyrine&show_icons=true&count_private=true&hide_border=false&title_color=FFD700&icon_color=FFD700&text_color=F5F5F5&bg_color=1D4E89&border_color=FFD700&border_radius=10" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxyrine&layout=compact&langs_count=8&hide_border=false&title_color=FFD700&text_color=F5F5F5&bg_color=1D4E89&border_color=FFD700&border_radius=10" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-psi-eight-93.vercel.app/api?username=Oxyrine&show_icons=true&count_private=true&hide_border=false&title_color=FFD700&icon_color=FFD700&text_color=F5F5F5&bg_color=1D4E89&border_color=FFD700&border_radius=10" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-psi-eight-93.vercel.app/api/top-langs/?username=Oxyrine&layout=compact&langs_count=8&hide_border=false&title_color=FFD700&text_color=F5F5F5&bg_color=1D4E89&border_color=FFD700&border_radius=10" alt="Top Languages" />
 </p>
 
 <p align="center">
