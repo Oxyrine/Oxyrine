@@ -92,7 +92,7 @@ A **plug-and-play Digital Rights Management (DRM) system** built for startups an
 
 **Stack:** Electron · Python · FastAPI · Railway · Vercel
 
-<a href="https://github.com/Oxyrine/krypts">
+<a href="https://github.com/Oxyrine/krypts-2.0">
   <img src="https://img.shields.io/badge/View_Repository-1D4E89?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=1D4E89" alt="Repo" />
 </a>
 
