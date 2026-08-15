@@ -48,6 +48,8 @@ I'm looking to collaborate with other learners and developers who enjoy discussi
 |:-----------:|:--------|:------:|
 | **MindSpark'26** | Krypts — DRM system for creators | 🥇 1st Place |
 | **CodeClash** | Competitive Coding-Interview Contest | 🥈 2nd Place |
+| **Code Provenance** | Competitive Coding-Debugging Contest | 🥈 2nd Place |
+| **ISTE'26** | Themis - Interactive cyber-awareness Platform| 🏅 5th Place and Incubation Support |
 
 </div>
 
