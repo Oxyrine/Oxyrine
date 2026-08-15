@@ -40,11 +40,11 @@ I'm looking to collaborate with other learners and developers who enjoy discussi
 
 <p align="center"> ◈ ━━━━━━━━━━━━━━━ 🏛️ ━━━━━━━━━━━━━━━ ◈ </p>
 
-<h2 align="center">🏆 Competitions Won</h2>
+<h2 align="center">🏆 Events Won</h2>
 
 <div align="center">
 
-| Competition | Project | Result |
+| Event | Project | Result |
 |:-----------:|:--------|:------:|
 | **MindSpark'26** | Krypts — DRM system for creators | 🥇 1st Place |
 | **CodeClash** | Competitive Coding-Interview Contest | 🥈 2nd Place |
