@@ -128,6 +128,21 @@ An **interactive cyber-awareness and threat-defense platform** that trains users
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top" colspan="2">
+
+### 🐍 Circe (Ouroboros)
+
+A **fraud-detection pipeline** built for DevJams'26 that discriminates legitimate circular trade from fabricated circular trading rings on a TReDS-style invoice discounting platform — the core bet being that finding cycles is easy, telling real trade from staged trade apart is the hard problem. Combines iterative Tarjan SCC + depth-limited DFS cycle detection with a corporate-graph closure step (director/address/registration-date evidence) to recover rings that hide behind a broken transaction chain, hardened against messy real-world invoice data. Built as a 3-person track split (graph/contract/CI, scoring, data/viz/demo) around a single frozen wire-protocol contract.
+
+**Stack:** Python · Graph Algorithms (Tarjan's SCC, DFS) · JSON Schema Validation · D3-based Visualization
+
+<a href="https://github.com/Oxyrine/Circe">
+  <img src="https://img.shields.io/badge/View_Repository-1D4E89?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=1D4E89" alt="Repo" />
+</a>
+
+</td>
+</tr>
 </table>
 
 <p align="center"> ◈ ━━━━━━━━━━━━━━━ 🏛️ ━━━━━━━━━━━━━━━ ◈ </p>
@@ -140,7 +155,7 @@ An **interactive cyber-awareness and threat-defense platform** that trains users
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oxyrine&theme=react-dark&bg_color=1D4E89&color=FFD700&line=FFD700&point=F5F5F5&area=true&area_color=FFD700&title_color=FFD700&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/1D4E89/Oxyrine" alt="GitHub Contribution Graph" width="100%" />
 </p>
 
 
