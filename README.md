@@ -114,28 +114,26 @@ A **real-time group decision app** that turns "what should we watch tonight?" in
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" colspan="2">
+<td width="50%" valign="top">
 
 ### 🛡️ Themis
 
-An **interactive cyber-awareness and threat-defense platform** that trains users against social engineering and scams. Features an LLM-powered scam simulator that analyzes user responses in real time and categorizes the psychological tactics used (fear, urgency, authority), alongside a threat-analytics dashboard and region-specific awareness quizzes. Supports English, Tamil, Hindi, Malayalam, and Telugu.
+An **interactive cyber-awareness and threat-defense platform** that trains users against social engineering and scams. Features an LLM-powered scam simulator that categorizes the psychological tactics used (fear, urgency, authority), a threat-analytics dashboard, and region-specific awareness quizzes in five languages.
 
-**Stack:** Next.js · FastAPI · SQLModel · Google Gemini API (with GPT4Free fallback) · Recharts
+**Stack:** Next.js · FastAPI · SQLModel · Google Gemini API · Recharts
 
 <a href="https://github.com/Oxyrine/Themis--alt">
   <img src="https://img.shields.io/badge/View_Repository-1D4E89?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=1D4E89" alt="Repo" />
 </a>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top" colspan="2">
+<td width="50%" valign="top">
 
-### 🐍 Circe (Ouroboros)
+### 🐍 Circe
 
-A **fraud-detection pipeline** built for DevJams'26 that discriminates legitimate circular trade from fabricated circular trading rings on a TReDS-style invoice discounting platform — the core bet being that finding cycles is easy, telling real trade from staged trade apart is the hard problem. Combines iterative Tarjan SCC + depth-limited DFS cycle detection with a corporate-graph closure step (director/address/registration-date evidence) to recover rings that hide behind a broken transaction chain, hardened against messy real-world invoice data. Built as a 3-person track split (graph/contract/CI, scoring, data/viz/demo) around a single frozen wire-protocol contract.
+A **fraud-detection pipeline** built for DevJams'26 that discriminates legitimate circular trade from fabricated circular trading rings on a TReDS-style invoice platform. Combines iterative Tarjan SCC + depth-limited DFS cycle detection with a corporate-graph closure step to recover rings hiding behind a broken transaction chain, hardened against messy real-world data.
 
-**Stack:** Python · Graph Algorithms (Tarjan's SCC, DFS) · JSON Schema Validation · D3-based Visualization
+**Stack:** Python · Graph Algorithms (Tarjan's SCC, DFS) · JSON Schema Validation
 
 <a href="https://github.com/Oxyrine/Circe">
   <img src="https://img.shields.io/badge/View_Repository-1D4E89?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=1D4E89" alt="Repo" />
