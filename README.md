@@ -90,7 +90,7 @@ I'm looking to collaborate with other learners and developers who enjoy discussi
 
 ### 🔎 Lumine
 
-A **hybrid counterparty entity-resolution and multilateral netting approval tool**, built for the iQOO Hackathon Chennai. An LLM handles the ambiguous judgment of whether two counterparty records are the same entity, its output is forced through a strict JSON schema, and a deterministic engine makes the final netting decisions.
+A **hybrid counterparty entity-resolution and multilateral netting approval tool**, An LLM handles the ambiguous judgment of whether two counterparty records are the same entity, its output is forced through a strict JSON schema, and a deterministic engine makes the final netting decisions.
 
 **Stack:** Python · LLM · JSON Schema · Deterministic Engine
 
@@ -103,7 +103,7 @@ A **hybrid counterparty entity-resolution and multilateral netting approval tool
 
 ### 🧵 Ariadne
 
-A **pool-integrity and lineage-ledger system for securitised TReDS receivables**, built for Bit N Build '26. An on-chain ledger enforces ownership and single-pool membership per receivable, a deterministic engine checks pool eligibility and scores evidence of suspicious trading loops, and an independent verifier CLI lets any investor replay a pool's history for themselves.
+A **pool-integrity and lineage-ledger system for securitised TReDS receivables**, An on-chain ledger enforces ownership and single-pool membership per receivable, a deterministic engine checks pool eligibility and scores evidence of suspicious trading loops, and an independent verifier CLI lets any investor replay a pool's history for themselves.
 
 **Stack:** On-chain Ledger · Deterministic Rule Engine · Evidence Scoring · Verifier CLI
 
@@ -118,7 +118,7 @@ A **pool-integrity and lineage-ledger system for securitised TReDS receivables**
 
 ### 🔁 Rebound
 
-A **bounded payment-recovery orchestrator** built for the Razorpay AI Buildathon. It follows a typed-boundary design: an LLM handles the ambiguous reading of failed payments, a strict JSON schema constrains its output, and a deterministic engine takes every action that touches money.
+A **bounded payment-recovery orchestrator**. It follows a typed-boundary design: an LLM handles the ambiguous reading of failed payments, a strict JSON schema constrains its output, and a deterministic engine takes every action that touches money.
 
 **Stack:** Python · LLM · JSON Schema · Razorpay
 
@@ -131,7 +131,7 @@ A **bounded payment-recovery orchestrator** built for the Razorpay AI Buildathon
 
 ### 🐍 Circe
 
-A **fraud-detection pipeline** built for DevJams'26 that discriminates legitimate circular trade from fabricated circular trading rings on a TReDS-style invoice platform. Combines iterative Tarjan SCC + depth-limited DFS cycle detection with a corporate-graph closure step to recover rings hiding behind a broken transaction chain, hardened against messy real-world data.
+A **fraud-detection pipeline** that discriminates legitimate circular trade from fabricated circular trading rings on a TReDS-style invoice platform. Combines iterative Tarjan SCC + depth-limited DFS cycle detection with a corporate-graph closure step to recover rings hiding behind a broken transaction chain, hardened against messy real-world data.
 
 **Stack:** Python · Graph Algorithms (Tarjan's SCC, DFS) · JSON Schema Validation
 
