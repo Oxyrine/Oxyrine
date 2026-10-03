@@ -88,26 +88,26 @@ I'm looking to collaborate with other learners and developers who enjoy discussi
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Krypts
+### 🔎 Lumine
 
-A **plug-and-play Digital Rights Management (DRM) system** built for startups and independent creators, featuring OS-level screenshot blocking via Electron, a Python/FastAPI backend, and deployment on Railway/Vercel. Placed **1st at MindSpark'26**.
+A **hybrid counterparty entity-resolution and multilateral netting approval tool**, built for the iQOO Hackathon Chennai. An LLM handles the ambiguous judgment of whether two counterparty records are the same entity, its output is forced through a strict JSON schema, and a deterministic engine makes the final netting decisions.
 
-**Stack:** Electron · Python · FastAPI · Railway · Vercel
+**Stack:** Python · LLM · JSON Schema · Deterministic Engine
 
-<a href="https://github.com/Oxyrine/krypts-2.0">
+<a href="https://github.com/Oxyrine/Lumine">
   <img src="https://img.shields.io/badge/View_Repository-1D4E89?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=1D4E89" alt="Repo" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 Cliq
+### 🧵 Ariadne
 
-A **real-time group decision app** that turns "what should we watch tonight?" into a fast, collaborative pick. Guests join a host's room via QR code, everyone swipes on movies and shows, and the app surfaces the first title the group agrees on. Built with a live sync layer and swipe-based UI.
+A **pool-integrity and lineage-ledger system for securitised TReDS receivables**, built for Bit N Build '26. An on-chain ledger enforces ownership and single-pool membership per receivable, a deterministic engine checks pool eligibility and scores evidence of suspicious trading loops, and an independent verifier CLI lets any investor replay a pool's history for themselves.
 
-**Stack:** Next.js · Firebase Realtime Database · TMDb API · Framer Motion · Tailwind CSS
+**Stack:** On-chain Ledger · Deterministic Rule Engine · Evidence Scoring · Verifier CLI
 
-<a href="https://github.com/Oxyrine/Cliq">
+<a href="https://github.com/Oxyrine/Ariadne">
   <img src="https://img.shields.io/badge/View_Repository-1D4E89?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=1D4E89" alt="Repo" />
 </a>
 
@@ -116,13 +116,13 @@ A **real-time group decision app** that turns "what should we watch tonight?" in
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Themis
+### 🔁 Rebound
 
-An **interactive cyber-awareness and threat-defense platform** that trains users against social engineering and scams. Features an LLM-powered scam simulator that categorizes the psychological tactics used (fear, urgency, authority), a threat-analytics dashboard, and region-specific awareness quizzes in five languages.
+A **bounded payment-recovery orchestrator** built for the Razorpay AI Buildathon. It follows a typed-boundary design: an LLM handles the ambiguous reading of failed payments, a strict JSON schema constrains its output, and a deterministic engine takes every action that touches money.
 
-**Stack:** Next.js · FastAPI · SQLModel · Google Gemini API · Recharts
+**Stack:** Python · LLM · JSON Schema · Razorpay
 
-<a href="https://github.com/Oxyrine/Themis--alt">
+<a href="https://github.com/Oxyrine/Rebound">
   <img src="https://img.shields.io/badge/View_Repository-1D4E89?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=1D4E89" alt="Repo" />
 </a>
 
